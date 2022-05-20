@@ -79,7 +79,7 @@ const Todo = () => {
                 <div className="child-div">
                     <figure>
                         <img src="https://cdn-icons-png.flaticon.com/128/2666/2666436.png" alt="main loogo" />
-                        <figcaption><h2>CURD App using UseState && UseEffect</h2></figcaption>
+                        <figcaption><h2>CRUD App using UseState && UseEffect</h2></figcaption>
                         <figcaption>Add your list 😀</figcaption>
                     </figure>
                     <div className="addItems">
